@@ -15,7 +15,7 @@ All tasks require a root user.  Do the following to grab the repositories
 
     # pkg install git
     # cd /usr
-    # git clone https://github.com/opnsense/tools
+    # git clone https://github.com/Mj-CloudEtel/tools
     # cd tools
     # make update
 
